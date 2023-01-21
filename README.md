@@ -16,4 +16,4 @@ A Wordle clone in python with the pygame library and using the french dictionary
   - bouton relancer une partie MAIS si la partie n'est pas fini reset la série de victoires 
 
 ## Manque
-    - le jeu ne dit pas le mot qu'il fallait trouver en cas de défaite
+  - le jeu ne dit pas le mot qu'il fallait trouver en cas de défaite
